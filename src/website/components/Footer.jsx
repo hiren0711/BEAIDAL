@@ -34,7 +34,7 @@ function Footer() {
                             </div>
                         </div>
                         <div className="col-lg-5 col-md-6 footer-list-29 footer-3 mt-lg-0 mt-3">
-                            <p className="copy-footer-29 text-center">© 2021 Beaidal. All rights reserved | Designed by <Link target='_blank' to="https://jyotindra-21.github.io/jyotindra-kushwah/">Jyotindra Kushwah</Link></p>
+                            <p className="copy-footer-29 text-center">© 2021 Beaidal. All rights reserved | Designed by <Link target='_blank' to="https://jyotindra-21.github.io/jyotindra-kushwah/">Hiren Prajapati</Link></p>
                         </div>
                         <div className="col-lg-4 col-md-6 footer-list-29 mt-lg-0 mt-4">
                             <div className="main-social-footer-29">
