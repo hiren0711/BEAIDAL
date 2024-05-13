@@ -45,12 +45,12 @@ function App() {
           <Route path='/profile/update/:uid' element={<> <Header /> <UpdateProfile /> <Footer /> </>} />
 
           {/* ADMIN ROUTE */}
-          <Route path='/admin/dashboard' element={<> <AHeader /> <Dashboard /> <AFooter /> </>} />
-          <Route path='/admin/manage-artist' element={<> <AHeader /> <ArtistManage /> <AFooter /> </>} />
-          <Route path='/admin/manage-blog' element={<> <AHeader /> <ManageBlog /> <AFooter /> </>} />
-          <Route path='/admin/add-blog' element={<> <AHeader /> <AddBlog /> <AFooter /> </>} />
-          <Route path='/admin/update-blog/:bid' element={<> <AHeader /> <UpdateBlog /> <AFooter /> </>} />
-          <Route path='/admin/manage-contact' element={<> <AHeader /> <ManageContact /> <AFooter /> </>} />
+          <Route path='https://beaidal.vercel.app/admin/dashboard' element={<> <AHeader /> <Dashboard /> <AFooter /> </>} />
+          <Route path='https://beaidal.vercel.app/admin/manage-artist' element={<> <AHeader /> <ArtistManage /> <AFooter /> </>} />
+          <Route path='https://beaidal.vercel.app/admin/manage-blog' element={<> <AHeader /> <ManageBlog /> <AFooter /> </>} />
+          <Route path='https://beaidal.vercel.app/admin/add-blog' element={<> <AHeader /> <AddBlog /> <AFooter /> </>} />
+          <Route path='https://beaidal.vercel.app/admin/update-blog/:bid' element={<> <AHeader /> <UpdateBlog /> <AFooter /> </>} />
+          <Route path='https://beaidal.vercel.app/admin/manage-contact' element={<> <AHeader /> <ManageContact /> <AFooter /> </>} />
 
 
         </Routes>
